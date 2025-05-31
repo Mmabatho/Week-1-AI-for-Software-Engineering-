@@ -1,1 +1,4 @@
 # Week-1-AI-for-Software-Engineering-
+
+
+## This multilingual cryto chatbot leverages blockchain intelligence to deliver real-time market, DeFi insights, NFT updates, and trading execution. Fluent in crypto jargon-like staking, gas fees, and tokenomics-it decodes complex queries. When faced with unclear inputs, it redirects using contex-aware propmts, ensuring smooth interaction across diverse crypto ecosystem.
