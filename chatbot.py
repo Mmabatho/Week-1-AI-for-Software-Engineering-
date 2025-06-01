@@ -74,6 +74,3 @@ def get_response(user_query):
         "Sorry, I can't understand that. Try asking about trending, sustainable, or price info for cryptos! "
         "Type 'help' for options."
     )
-
-
-

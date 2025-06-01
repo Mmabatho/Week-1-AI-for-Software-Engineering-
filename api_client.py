@@ -1,4 +1,3 @@
-# API
 import requests
 
 class CryptoAPIClient:
@@ -23,3 +22,28 @@ class CryptoAPIClient:
             'page': 1,
             'sparkline': False
         }
+        response = requests.get(url, params=params)
+        if response.status_code == 200:
+            return response.json()
+        else:
+            return None
+
+    @staticmethod
+    def get_price_trend(coin_id):
+        url = f"{CryptoAPIClient.BASE_URL}/coins/{coin_id}/market_chart"
+        params = {
+            'vs_currency': 'usd',
+            'days': '7'
+        }
+        response = requests.get(url, params=params)
+        if response.status_code == 200:
+            return response.json()
+        else:
+            return None
+
+def fetch_crypto_data(coin_id):
+    # Dummy implementation: return a sample dictionary for Bitcoin, None otherwise
+    if coin_id == "Bitcoin":
+        return {"price": 50000, "market_cap": 1000000000}
+    else:
+        return None
