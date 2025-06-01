@@ -42,6 +42,6 @@ You can then interact with the chatbot by typing your queries related to cryptoc
 
 
 ## Contributors
-[Brian Ouko](https://github.com/WellBrian)
-[Mmabatho Naseba](https://github.com/Mmabatho)
-[Adebomi O. Isaiah](https://github.com/holuwercheyy)
+- [Brian Ouko](https://github.com/WellBrian)  
+- [Mmabatho Naseba](https://github.com/Mmabatho)  
+- [Adebomi O. Isaiah](https://github.com/holuwercheyy)  
