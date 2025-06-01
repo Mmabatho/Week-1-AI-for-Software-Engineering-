@@ -1,4 +1,4 @@
-# CryptoBuddy
+# CryptoBuddy Chatbot
 
 ## Overview
 CryptoBuddy is an enhanced version of the original CryptoBuddy chatbot, integrating Natural Language Processing (NLP) capabilities and external API interactions to provide users with more accurate and context-aware responses regarding cryptocurrency trends and sustainability.
