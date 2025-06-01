@@ -10,8 +10,8 @@ CryptoBuddy is an enhanced version of the original CryptoBuddy chatbot, integrat
 
 ## Project Structure
 ```
-crypto-buddy-nlp/
-├── src/
+crypto-buddy/
+├── Week-1-AI-for-Software-Engineering/
 │   ├── __init__.py
 │   ├── CryptoBuddy.py
 │   ├── chatbot.py
@@ -20,6 +20,7 @@ crypto-buddy-nlp/
 │   └── crypto_db.py
 ├── requirements.txt
 ├── README.md
+├── summary.txt
 ```
 
 ## Installation
